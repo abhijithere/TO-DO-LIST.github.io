@@ -1,0 +1,6 @@
+body{
+    background: linear-gradient(bisque,grey);
+    height: auto;
+    width: auto;
+    min-height: 100vh;
+}
